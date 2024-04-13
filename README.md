@@ -1,4 +1,4 @@
-# Data_Analysis_App
+# Data_Analysis_Visualization_App
 Data Analysis App:  
 Dataset: Tips Dataset 
 Programming Language: Python 
